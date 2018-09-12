@@ -1,0 +1,91 @@
+body {
+	background-image: url("../images/tiles.jpeg");
+}
+
+h1{
+	background-color: #b85703;
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: solid 1px #ddd;
+}
+
+#wrapper {
+	width: 100%
+}
+
+#instructions {
+	color: green;
+	background-color: beige;
+	width: 30%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#compNumber {
+	color: maroon;
+	font-size: 30px;
+	background-color: rgb(8, 186, 118);
+	float: left;
+	display: inline-block;
+	height: 130px;
+	width: 225px;
+	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#scorebox {
+	background-color: rgb(6, 242, 230);
+	display: inline-block;
+	padding: 5px 20px 45px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid 1px #ddd;
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}
+
+.crystalImage {
+	height: 111px;
+	margin-left: 10px;
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#totalScore {
+	margin-bottom: 50px;
+}
+
+#playertotalscore {
+	color: white;
+	background: #009688;
+	display: inline;
+	padding: 20px;
+	border: solid 1px #ddd
+}
+
+#playerscore {
+	color: white;
+	font-size: 30px;
+	background-color: #009688;
+	float: left;
+	display: inline-block;
+	height: 130px;
+	width: 225px;
+	padding: 10px;
+	border: solid 1px #ddd
+}
+
